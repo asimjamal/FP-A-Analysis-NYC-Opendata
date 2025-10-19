@@ -90,14 +90,9 @@ Built an **interactive Power BI dashboard** featuring:
 
 ---
 
-## 🗂 Project Structure  
-
-
----
-
 ## 🚀 How to Reproduce  
 
 1. **Clone Repository**  
    ```bash
-   git clone https://github.com/<your-username>/nyc-fpa-revenue-analysis.git
+   git clone https://github.com/asimjamal/nyc-fpa-revenue-analysis.git
    cd nyc-fpa-revenue-analysis
