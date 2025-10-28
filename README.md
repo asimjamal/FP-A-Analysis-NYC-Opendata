@@ -1,4 +1,4 @@
-# 🧾 Public Finance FP&A Dashboard – Budget vs Actuals & Anomaly Detection  
+# 🧾 Public Finance FP&A Analysis – Budget vs Actuals & Anomaly Detection  
 **Dataset:** [Revenue Budget & Financial Plan – City of New York (Open Data Portal)](https://data.cityofnewyork.us/City-Government/Revenue-Budget-Financial-Plan-Exec-Adpt-Prel/ugzk-a6x4)  
 
 ---
