@@ -26,6 +26,8 @@ The goal was to simulate the kind of **Financial Planning & Analysis (FP&A)** wo
 **Source:** NYC Open Data – *Revenue Budget & Financial Plan (Exec/Adpt/Prel)*  
 **Scope:** Fiscal revenue projections and actual receipts for multiple years.  
 
+The NYC Financial Plan dataset (51k records, FY2017–2025) captures multi-year budget and revenue actuals across ~70 revenue classes. The data is clean, with minimal nulls and strong fiscal coverage. Tax-related and intergovernmental revenue dominate, giving a robust base for FP&A-style KPI analysis — focusing on forecast accuracy, variance attribution, and anomaly detection.
+
 **Key Columns Used:**
 | Column | Description |
 |---------|--------------|
