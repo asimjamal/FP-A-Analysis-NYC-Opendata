@@ -47,6 +47,11 @@ The NYC Financial Plan dataset (51k records, FY2017–2025) captures multi-year 
 - Imported and cleaned dataset using Python (`pandas`)  
 - Standardized column names and numeric formatting  
 - Filtered fiscal years for consistency and relevance  
+## NYC Revenue Trends (FY2017–2025)
+
+![Budget vs Actual](Visuals/Adopted Budget vs Actual Receipts.png)
+
+*NYC’s actual revenue has consistently outperformed adopted budgets in recent fiscal years, except for FY2020 when pandemic-related disruptions caused a sharp decline.*
 
 ### 2. KPI Calculations  
 | KPI | Formula | Purpose |
